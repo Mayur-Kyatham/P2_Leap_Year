@@ -1,4 +1,4 @@
-Here the whole explanation of the code is given.
+Here the whole explanation of the code is given
 
 Step-by-step to explain how it determines whether a given year is a leap year or not:
 
